@@ -1,0 +1,4 @@
+prerequisites
+
+python3	(3.8.10)	
+pygame	(1.9.6)
